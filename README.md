@@ -65,6 +65,6 @@ flutter run
 ---
 
 ## Credits
-- Roberto Cialini
-- Umberto Colangelo
-- Vittorio La Ferla
+- [Roberto Cialini](https://github.com/RobertoCialini)
+- [Umberto Colangelo](https://github.com/umbertocolangelo)
+- [Vittorio La Ferla](https://github.com/vittoriolaferla)
