@@ -49,7 +49,7 @@ Before starting, ensure you have the following installed:
 ### Clone the Repository
 Clone this repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/newstalk
+git clone https://github.com/RobertoCialini/newstalk
 ```
 
 ---
@@ -61,3 +61,10 @@ cd newstalk
 flutter pub get
 flutter run
 ```
+
+---
+
+## Credits
+- Roberto Cialini
+- Umberto Colangelo
+- Vittorio La Ferla
